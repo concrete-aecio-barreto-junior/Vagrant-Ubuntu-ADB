@@ -12,17 +12,13 @@ Single box baseada em Ubuntu/16.04 LTS (64bits) com ADB - Android Debug Bridge
 
 ### Usage:
 
-Clone o repositório ou faça o download do ZIP
-> Clonando o repositório:
->> ```
-$ git clone https://github.com/concrete-aecio-barreto-junior/Vagrant-Ubuntu-ADB.git
-```
+> Clonando o repositorio
+> ``` $ git clone https://github.com/concrete-aecio-barreto-junior/Vagrant-Ubuntu-ADB.git ```
+
+Ou
 
 > Fazendo o download do ZIP:
->> ```
-$ wget  https://github.com/concrete-aecio-barreto-junior/Vagrant-Ubuntu-ADB/archive/master.zip
-$ unzip master.zip
-```
+> ```$ wget  https://github.com/concrete-aecio-barreto-junior/Vagrant-Ubuntu-ADB/archive/master.zip && unzip master.ziP```
 
 ### Controlando a VM
 
